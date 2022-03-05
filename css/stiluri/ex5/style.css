@@ -1,0 +1,11 @@
+html {
+  background: url("background.jpg") repeat-x;
+}
+
+h1 {
+  background: #00ff00;
+}
+
+h2 {
+  background: rgb(250, 0, 255);
+}

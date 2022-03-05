@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pagina dinamica</title>
+  </head>
+  <body>
+    <!-- Paragraf cu identificatorul "paragraf_de_test" -->
+    <p id="paragraf_de_test">Acesta este un paragraf de test.</p>
+    <!-- un script explicit -->
+    <script language="JavaScript" type="text/javascript">
+      paragraf_de_test.style.color = "red";
+    </script>
+    <form>
+      <!-- JavaScript inline, direct in marcaj -->
+      <!-- Alinierea -->
+      <input
+        type="button"
+        value="Alinieaza stanga"
+        onclick="paragraf_de_test.style.textAlign='left'"
+      />
+      <input
+        type="button"
+        value="Alinieaza dreapta"
+        onclick="paragraf_de_test.style.textAlign='right'"
+      />
+      <br />
+      <input
+        type="button"
+        value="Culoarea albastra"
+        onclick="paragraf_de_test.style.color='blue'"
+      />
+      <input
+        type="button"
+        value="Culoarea rosie"
+        onclick="paragraf_de_test.style.color='red'"
+      />
+      <input
+        type="button"
+        value="Culoarea alba"
+        onclick="paragraf_de_test.style.color='white'"
+      />
+    </form>
+  </body>
+</html>

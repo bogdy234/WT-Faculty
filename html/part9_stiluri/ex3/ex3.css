@@ -1,0 +1,10 @@
+html {
+  background: blue;
+}
+p {
+  color: yellow;
+}
+
+p:first-child {
+  color: cyan;
+}

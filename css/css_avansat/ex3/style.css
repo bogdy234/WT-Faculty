@@ -1,0 +1,10 @@
+img {
+  width: 200px;
+  height: 100px;
+  margin-left: 1cm;
+  border: 1px dashed black;
+}
+
+p {
+  display: inline;
+}
