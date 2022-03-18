@@ -1,0 +1,8 @@
+ul {
+  list-style-image: url("https://media1.giphy.com/media/KPWe0UMX3SoTPCxMzx/giphy.gif?cid=790b7611349f023f91b07265b516d8d11db39d8fd4c4b056&rid=giphy.gif&ct=g");
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}

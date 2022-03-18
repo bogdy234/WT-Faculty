@@ -1,0 +1,6 @@
+.p1 {
+  border-top: 1px solid red;
+  border-bottom: 5px solid red;
+  border-left: 20px solid blue;
+  border-right: 10px solid blue;
+}

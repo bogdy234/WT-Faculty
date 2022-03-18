@@ -1,0 +1,15 @@
+.leftmargin {
+  margin-left: 2cm;
+}
+.rightmargin {
+  margin-right: 8cm;
+}
+.topmargin {
+  margin-top: 5cm;
+}
+.bottommargin {
+  margin-bottom: 2cm;
+}
+.margin {
+  margin: 2cm 4cm 3cm 5cm;
+}

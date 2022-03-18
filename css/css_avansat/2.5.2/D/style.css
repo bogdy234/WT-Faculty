@@ -1,0 +1,18 @@
+h1 {
+  color: #00ff00;
+}
+
+h2 {
+  color: pink;
+}
+
+p {
+  color: rgb(0, 0, 255);
+}
+
+span.prima-litera {
+  font-size: 400%;
+  line-height: 80%;
+  float: left;
+  font-family: "Algerian";
+}

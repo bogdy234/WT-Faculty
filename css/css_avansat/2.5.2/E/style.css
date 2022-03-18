@@ -1,0 +1,21 @@
+ul,
+li {
+  float: left;
+}
+
+li {
+  background: purple;
+  border-right: 1px solid white;
+  display: inline;
+  padding: 10px;
+}
+
+ul {
+  height: 100%;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  width: 6em;
+}

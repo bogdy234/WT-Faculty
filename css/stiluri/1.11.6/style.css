@@ -1,0 +1,19 @@
+.leftpadding {
+  padding-left: 2cm;
+}
+.rightpadding {
+  padding-right: 8cm;
+}
+.toppadding {
+  padding-top: 5cm;
+}
+.bottompadding {
+  padding-bottom: 2cm;
+}
+.padding {
+  margin: 2cm 4cm 3cm 5cm;
+}
+
+p {
+  border: 1px solid black;
+}

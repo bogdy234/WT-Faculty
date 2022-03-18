@@ -1,0 +1,18 @@
+.decimal {
+  list-style-type: decimal;
+}
+.lroman {
+  list-style-type: lower-roman;
+}
+
+.uroman {
+  list-style-type: upper-roman;
+}
+
+.lalpha {
+  list-style-type: lower-alpha;
+}
+
+.ualpha {
+  list-style-type: upper-alpha;
+}
