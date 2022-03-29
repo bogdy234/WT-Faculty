@@ -1,0 +1,6 @@
+div {
+  width: 90px;
+  height: 40px;
+  overflow-x: scroll;
+  overflow-y: scroll;
+}

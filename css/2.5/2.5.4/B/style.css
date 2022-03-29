@@ -1,0 +1,23 @@
+.one:hover {
+  color: pink;
+}
+
+.two:hover {
+  font-size: 20px;
+}
+
+.three:hover {
+  background-color: #232;
+}
+
+.four:hover {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.five {
+  text-decoration: none;
+}
+
+.five:hover {
+  text-decoration: underline;
+}

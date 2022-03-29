@@ -1,0 +1,10 @@
+img {
+  width: 100px;
+  height: 100px;
+}
+
+.cutImage {
+  position: absolute;
+  left: 150px;
+  clip: rect(0px, 50px, 100px, 0px);
+}

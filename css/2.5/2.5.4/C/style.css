@@ -1,0 +1,7 @@
+p > a:first-child {
+  text-decoration: none;
+}
+
+p > a {
+  text-decoration: underline;
+}

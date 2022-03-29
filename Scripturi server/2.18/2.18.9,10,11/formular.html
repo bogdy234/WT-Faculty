@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+</head>
+
+<body>
+    <form method="post" name="form" action="insert.php"  style="display:flex; flex-direction:column; max-width: 200px">
+        <label for="nume">Nume</label>
+        <input name="nume" type="text" >
+
+        <label style="margin-top:1rem" for="prenume">Prenume</label>
+        <input name="prenume" type="text" >
+
+        <label style="margin-top:1rem" for="tata">Tatal</label>
+        <input name="tata" type="text" >
+
+        <label style="margin-top:1rem" for="mama">Mama</label>
+        <input name="mama" type="text" >
+
+        <label style="margin-top:1rem" id="CNP">CNP</label>
+        <input name="CNP" type="text" >
+
+        <label style="margin-top:1rem" for="serie">Serie</label>
+        <input name="serie" type="text" >
+
+        <label style="margin-top:1rem" for="nr_buletin">Nr. Buletin</label>
+        <input name="nr_buletin" type="text" >
+
+        <label style="margin-top:1rem" for="data_nasterii">Data Nasterii</label>
+        <input name="data_nasterii" type="date" >
+
+        <label style="margin-top:1rem" for="adresa">Adresa</label>
+        <input name="adresa" type="text" >
+
+        <div style="margin-top:1rem">
+            <input  type="radio" value="casatorit" name="casatorit">
+            <label for="casatorit">Casatorit</label>
+        </div>
+        <div>
+            <input  type="radio" value="necasatorit" name="casatorit" checked>
+            <label for="necasatorit">Necasatorit</label>
+        </div style="margin-top:1rem">
+        <div style="margin-top:1rem">
+            <input name="copii" type="checkbox" value="Copii">
+            <label for="copii">Copii</label>
+        </div >
+        <input type="submit" name="submit" style="margin-top:1rem">
+    </form>
+</body>
+
+</html>
