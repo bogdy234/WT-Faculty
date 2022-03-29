@@ -1,6 +1,6 @@
 <?php
 $cookie_name = "user";
-$cookie_value = "Paul";
+$cookie_value = "Bogdan";
 setCookie($cookie_name, $cookie_value,time() + (10000*40),'/')
 ?>
 

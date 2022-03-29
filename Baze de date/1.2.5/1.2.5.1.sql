@@ -27,3 +27,9 @@ values ('Batea', 'some description',4,1,6),
         ('Scarisoara', 'some description',1,5,10),
         ('Ana', 'some description',1,6,10);
         
+INSERT INTO imagini(mime_type,cale,data,pensiuni_id) VALUES ('image/svg+xml','D:\images\Batea','1000-01-01 00:00:00','1'),
+                                                            ('image/svg+xml','D:\images\Chindris','1000-01-01 00:00:00','2'),
+                                                            ('image/svg+xml','D:\images\Man','1000-01-01 00:00:00','3'),
+                                                            ('image/svg+xml','D:\images\Magnolia','1000-01-01 00:00:00','4'),
+                                                            ('image/svg+xml','D:\images\Scarisoara','1000-01-01 00:00:00','5'),
+                                                            ('image/svg+xml','D:\images\Ana','1000-01-01 00:00:00','6');
